@@ -1,4 +1,4 @@
 monger
 ======
 
-mongo to mysql etl framework
+mongo to rdbms etl framework
